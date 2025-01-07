@@ -1,0 +1,34 @@
+{
+	"name": "focusOneDoomTheme",
+	"displayName": "Focus One Doom Theme",
+	"description": "Modified red \"Atom One Dark\" theme for focus",
+	"version": "1.0.0",
+	"publisher": "rob-bennett",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/RobbyCBennett/VSCodeFocusOneDoomTheme.git"
+	},
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"Focus",
+		"Atom",
+		"One",
+		"Doom",
+		"Theme"
+	],
+	"icon": "icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Focus One Doom",
+				"uiTheme": "vs-dark",
+				"path": "theme.json"
+			}
+		]
+	}
+}
