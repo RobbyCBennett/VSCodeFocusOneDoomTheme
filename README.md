@@ -1,6 +1,6 @@
 # Focus One Doom Theme
 
-*Modified "Atom One Dark" theme for focus*
+*Modified red "Atom One Dark" theme for focus*
 
 # Differences from "Atom One Dark"
 
